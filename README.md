@@ -1,0 +1,2 @@
+# nurlan-alimbekov-site
+Landing page — auto-deployed
